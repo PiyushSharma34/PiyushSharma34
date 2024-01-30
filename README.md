@@ -1,5 +1,6 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlxODljdHZ4bTE0MnluaXUzd280MTNoMzY5MHJqcGx5NGZrOGQ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height"40"/>
+
 <h1 align="center">Hi 👋, I'm Piyush Bharadwaj</h1>
+<img align="top" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="100%" height"200"/>
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushsharma34&label=Profile%20views&color=0e75b6&style=flat" alt="piyushsharma34" /> </p>
