@@ -1,3 +1,4 @@
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlxODljdHZ4bTE0MnluaXUzd280MTNoMzY5MHJqcGx5NGZrOGQ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height"40"/>
 <h1 align="center">Hi 👋, I'm Piyush Bharadwaj</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
